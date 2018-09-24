@@ -1,0 +1,90 @@
+#head {
+ background-color: #fcba7a; 
+ padding: 10px;
+}
+body {
+  font-family:     Verdana, Geneva, Arial, sans-serif;
+  font-size:       small;
+  text-align:      center;
+}
+
+h1 {
+  color:           #cc6600;
+  border-bottom:   thin dotted #888888;
+  font-size:       1.7em;
+}
+
+h2 {
+  font-size:       1.3em;
+}
+
+table {
+  width: 60%;
+  margin-left:     auto;
+  margin-right:    auto;
+  margin-top: 20px;
+  border:          thick solid gray;
+  caption-side:    bottom;
+  border-collapse: collapse;
+  font-size:       small;
+}
+
+td, th {
+  border:          thin dotted grey;
+  padding:         5px;
+  text-align:      left;
+}
+.hk {
+ font-size: 100%;
+}
+.hklarge {
+ font-size: 150%;
+}
+th {
+  border:          thin dotted grey;
+  text-align:      center;
+  background-color: #fcba7a; 
+}
+span.abbr {
+ color: #339933;
+ text-decoration: underline;
+}
+span.abbr:hover {color: #FF00FF} 
+
+span.hk {
+ color:blue;
+ }
+span.hklarge {
+ color:blue;
+ }
+span.q {
+  color: #333333;
+}
+span.entity {
+ color: red;
+}
+span.see {
+ font-weight: bolder;
+ font-style: italic;
+}
+span.sense {
+ font-weight: bolder;
+}
+span.datakey {
+ font-weight: bolder;
+}
+#querybutton {
+ outline-style: none;
+ background-color: yellow;
+}
+.query-ans {
+ margin-top: 20px;
+}
+.query-suggest {
+ margin-bottom: 20px;
+}
+p.tabkey {
+ font-weight: bolder;
+ font-size : larger;
+}
+

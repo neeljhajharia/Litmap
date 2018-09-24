@@ -1,0 +1,71 @@
+#hstyle
+
+{
+
+  color:green;
+
+  
+
+  font-family:cursive;
+
+  text-align:center;
+
+ }
+
+#logo{
+
+      height:150px;
+
+      width:150px;
+
+      align:middle;
+
+}
+
+#name{
+
+       text-align:center;
+
+       color:green;
+
+        font-family:cursive;
+
+margin-right:80px;
+
+  }
+
+#pswrd{
+
+       text-align:center;
+
+ font-family:cursive;
+
+margin-right:80px;
+
+ color:green;
+
+       }
+
+.button{
+
+    background-color: green; /* Green */
+
+    border: none;
+
+    color: white;
+
+    padding: 15px 32px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    font-size: 16px;
+
+align:middle;
+
+    font-family:cursive;   
+
+}
